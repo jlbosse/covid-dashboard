@@ -8,8 +8,8 @@ serve as a starting point for your own analysis without having to do the
 preparational steps yourself and have some of the "default" plots ready made
 for you.
 
-You can view it in your browser [here](insert link) or (better!) download
-it into your computer and play with it via 
+You can view it in your browser [here](https://github.com/jlbosse/covid-dashboard/blob/master/Covid19Dashboard.ipynb)
+or (better!) download it into your computer and play with it via 
 ```console
-foo@foobar:~$ git clone ...
+foo@foobar:~$ git clone https://github.com/jlbosse/covid-dashboard.git
 ```
